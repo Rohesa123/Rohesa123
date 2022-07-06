@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohesa Sidiq Permana
-- 👀 I’m interested in programming
+- 👀 I’m interested in PHP and JavaScript
 - 🌱 I’m currently learning PHP, JavaScript, HTML And CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
