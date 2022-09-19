@@ -5,12 +5,10 @@
 - 📫 How to reach me ...
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohesa123&layout=compact)](https://github.com/Rohesa123/github-readme-stats) -->
-<div style="text-align:center;">
-<a href="https://github.com/Rohesa123/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohesa123&layout=compact" />
+
+<a href="https://github.com/Rohesa123/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rohesa123&repo=convoychat" />
 </a>
-</div>
 
 <!---
 Rohesa123/Rohesa123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
