@@ -5,9 +5,9 @@
 - 📫 How to reach me ...
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
-
+<center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohesa123&layout=compact)](https://github.com/Rohesa123/github-readme-stats)
-
+</center>
 <!---
 Rohesa123/Rohesa123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
