@@ -7,7 +7,7 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohesa123&layout=compact)](https://github.com/Rohesa123/github-readme-stats) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats" style="text-align:center;">
+<a href="https://github.com/Rohesa123/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohesa123&layout=compact" />
 </a>
 
