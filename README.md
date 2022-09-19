@@ -7,7 +7,7 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 
 <a href="https://github.com/Rohesa123/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rohesa123&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rohesa123" />
 </a>
 
 <!---
