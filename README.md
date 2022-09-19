@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 <!---
 Rohesa123/Rohesa123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
