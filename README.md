@@ -1,11 +1,31 @@
-- 👋 Hi, I’m Rohesa Sidiq Permana
-- 👀 I’m interested in PHP and JavaScript
-- 🌱 I’m currently learning PHP, Java, JavaScript, HTML And CSS
-- 💞️ I’m looking to collaborate on PHP and Java
-- 📫 How to reach me ...
-
 ```java
-System.out.println("Hello World");
+public class Profile {
+
+    public static void main(String[] args) {
+    
+        String name = "Rohesa Sidiq Permana";
+        String[] interestedIn = {"PHP","Java","JavaScript"};
+        String[] learning = {"PHP","Java","JavaScript","HTML","CSS"};
+        
+        System.out.println(" Hi, I'm " + name);
+        
+        System.out.print(" I'm interested in ");
+
+        for (int i = 0; i < interestedIn.length; i++) {
+            if ( i < interestedIn.length - 1) System.out.print(interestedIn[i]+", ");
+            if ( i == (interestedIn.length - 1)) System.out.print("And "+interestedIn[i]+" \n");
+        }
+
+        System.out.print(" I'm currently learning ");
+
+        for (int i = 0; i < learning.length; i++) {
+            if ( i < learning.length - 1) System.out.print(learning[i]+", ");
+            if ( i == (learning.length - 1)) System.out.print("And "+learning[i]+" \n");
+        }
+        
+    }
+    
+}
 ```
 
 <!---
