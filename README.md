@@ -12,14 +12,14 @@ public class Profile {
         System.out.print(" I'm interested in ");
 
         for (int i = 0; i < interestedIn.length; i++) {
-            if ( i < interestedIn.length - 1) System.out.print(interestedIn[i]+", ");
+            if ( i < (interestedIn.length - 1)) System.out.print(interestedIn[i]+", ");
             if ( i == (interestedIn.length - 1)) System.out.print("And "+interestedIn[i]+" \n");
         }
 
         System.out.print(" I'm currently learning ");
 
         for (int i = 0; i < learning.length; i++) {
-            if ( i < learning.length - 1) System.out.print(learning[i]+", ");
+            if ( i < (learning.length - 1)) System.out.print(learning[i]+", ");
             if ( i == (learning.length - 1)) System.out.print("And "+learning[i]+" \n");
         }
         
