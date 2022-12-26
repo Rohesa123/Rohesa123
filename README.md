@@ -8,7 +8,7 @@ public class Profile {
     
         String name = "Rohesa Sidiq Permana";
         String[] interestedIn = {"PHP","Java","JavaScript"};
-        String[] learning = {"PHP","Java","JavaScript","HTML","CSS"};
+        String[] learning = {"PHP","Java","PostgreSQL","MySQL","HTML","CSS","JavaScript"};
         
         System.out.println(" Hi, I'm " + name);
         
