@@ -1,5 +1,5 @@
 
-Just Try yhis code in Java Playgound : 
+Just Try this code in Java Playgound : 
 
 ```java
 public class Profile {
