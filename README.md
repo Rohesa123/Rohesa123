@@ -10,7 +10,7 @@ public class Profile {
         String[] interestedIn = {"PHP","Java","JavaScript"};
         String[] learning = {"PHP","Java","PostgreSQL","MySQL","HTML","CSS","JavaScript"};
         
-        System.out.println(" Hi, I'm " + name);
+        System.out.println(" Hi, I'm " + name + "\n");
         
         System.out.print(" I'm interested in ");
 
@@ -19,7 +19,7 @@ public class Profile {
             if ( i == (interestedIn.length - 1)) System.out.print("And "+interestedIn[i]+" \n");
         }
 
-        System.out.print(" I'm currently learning ");
+        System.out.print("\n I'm currently learning ");
 
         for (int i = 0; i < learning.length; i++) {
             if ( i < (learning.length - 1)) System.out.print(learning[i]+", ");
