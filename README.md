@@ -7,8 +7,8 @@ public class Profile {
     public static void main(String[] args) {
     
         String name = "Rohesa Sidiq Permana";
-        String[] interestedIn = {"PHP","Java","JavaScript"};
-        String[] learning = {"PHP","Java","PostgreSQL","MySQL","HTML","CSS","JavaScript"};
+        String[] interestedIn = {"PHP","Java","JavaScript","Dart"};
+        String[] learning = {"PHP","Java","PostgreSQL","MySQL","HTML","CSS","JavaScript","Dart"};
         
         System.out.println(" Hi, I'm " + name + "\n");
         
